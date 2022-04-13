@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+#form{
+	display: flex;
+	flex-direction : column;
+}
+#body{
+	background-color: lightblue;
+	width : 220px;
+	padding :20px;
+}
